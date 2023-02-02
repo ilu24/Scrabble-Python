@@ -432,3 +432,5 @@ def main():#the function that runs the game and that holds everything in the gam
 if __name__ == "__main__":
   # if statement taken from: https://realpython.com/python-main-function/
   main()
+
+  
